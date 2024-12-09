@@ -1,64 +1,73 @@
-<!-- GitHub Profile with Structured Rows and Columns -->
+# <p align="center">👋 Hi, I'm Mykhailo</p>
 
-<div style="background-color: #1e1e1e; color: #e0e0e0; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h1 style="text-align: center; color: #fff; font-family: 'Arial', sans-serif; font-size: 36px;">👋 Hi, I'm Mykhailo (Melorenz)</h1>
-  <p style="text-align: center; color: #bbb; font-family: 'Arial', sans-serif; font-size: 18px;">I'm a Frontend Developer, passionate about building modern and user-friendly web applications.</p>
-  <div style="text-align: center; margin-top: 20px;">
-    <img src="https://i.ibb.co/jfkNQS9/image.png" alt="My Avatar" width="150" style="border-radius: 50%; border: 2px solid #444;">
-  </div>
-</div>
+<p align="center">I'm a <strong>Frontend Developer</strong> passionate about creating modern, responsive web applications. I specialize in frontend technologies and I'm always eager to learn and improve.</p>
 
-<!-- About Me Block -->
-<div style="background-color: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 24px;">🚀 About Me</h3>
-  <p style="color: #ccc; font-family: 'Arial', sans-serif; font-size: 18px;">
-    I'm a Frontend Developer with expertise in HTML, CSS, SASS, JavaScript, and Tailwind CSS. I love creating responsive and visually appealing web applications with a focus on performance and user experience.
-  </p>
-</div>
+---
 
-<!-- Technologies Block with 1 Row, 2 Columns -->
-<div style="background-color: #333333; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 24px;">🔧 Technologies</h3>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <div style="background-color: #444; padding: 15px; border-radius: 8px;">
-      <h4 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 20px;">Frontend</h4>
-      <ul style="color: #bbb; list-style-type: none; padding: 0; font-family: 'Arial', sans-serif; font-size: 18px;">
-        <li>HTML5, CSS3, SASS</li>
-        <li>JavaScript, Tailwind CSS</li>
-      </ul>
-    </div>
-    <div style="background-color: #444; padding: 15px; border-radius: 8px;">
-      <h4 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 20px;">Currently Learning</h4>
-      <ul style="color: #bbb; list-style-type: none; padding: 0; font-family: 'Arial', sans-serif; font-size: 18px;">
-        <li>JavaScript (React.js)</li> <!-- React.js is one of the most popular JS libraries -->
-      </ul>
-    </div>
-  </div>
-</div>
+## <p align="center">🚀 About Me</p>
 
-<!-- Interests Block -->
-<div style="background-color: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 24px;">🌟 My Interests</h3>
-  <p style="color: #ccc; font-family: 'Arial', sans-serif; font-size: 18px;">
-    I love listening to music, traveling, playing sports, and reading books. I believe these passions keep me creative and balanced in my work and life.
-  </p>
-</div>
+<p align="center">I'm a Frontend Developer with expertise in:</p>
+<p align="center">
+  <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>SASS</strong><br>
+  <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>
+</p>
 
-<!-- Contact Information Block -->
-<div style="background-color: #333333; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 24px;">📫 How to Reach Me</h3>
-  <div style="color: #ccc; font-family: 'Arial', sans-serif; font-size: 18px;">
-    <p>Instagram: <a href="https://instagram.com/melorenz_" style="color: #00acc1;">@melorenz_</a></p>
-  </div>
-</div>
+<p align="center">Currently, I'm diving deeper into <strong>JavaScript</strong> and exploring <strong>React.js</strong> and other modern frameworks.</p>
 
-<!-- GitHub Stats Block -->
-<div style="background-color: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px; text-align: center;">
-  <h3 style="color: #fff; font-family: 'Arial', sans-serif; font-size: 24px;">📈 GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=melorenz&show_icons=true&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width: 100%; width: 400px;">
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=melorenz&hide_border=true" alt="GitHub Streak" style="max-width: 100%; width: 400px;">
-  </p>
-</div>
+---
+
+## <p align="center">🔧 Technologies</p>
+
+<p align="center">I work with the following tools and technologies to build stunning websites and applications:</p>
+
+### <p align="center">Frontend</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50">
+  <img src="https://sass-lang.com/assets/img/styleguide/color.png" alt="SASS" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50">
+</p>
+
+### <p align="center">Currently Learning</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50">
+</p>
+
+---
+
+## <p align="center">🌟 My Interests</p>
+
+<p align="center">I'm passionate about many things beyond coding:</p>
+<p align="center">
+  🎵 <strong>Music</strong> – I love listening to music, it's my way to relax and stay motivated.<br>
+  🌍 <strong>Travel</strong> – Exploring new places and cultures keeps me inspired.<br>
+  ⚽ <strong>Sports</strong> – Staying active helps me stay focused and energized.<br>
+  📚 <strong>Reading</strong> – Books are a great way to expand my knowledge and creativity.
+</p>
+
+---
+
+## <p align="center">📫 How to Reach Me</p>
+
+<p align="center">Feel free to connect with me on Instagram:</p>
+<p align="center">
+  <a href="https://instagram.com/melorenz_">Instagram: @melorenz_</a>
+</p>
+
+---
+
+## <p align="center">📈 GitHub Stats</p>
+
+<p align="center">Here's a quick look at my GitHub activity:</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMelorenz&show_icons=true&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMelorenz&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## <p align="center">Let's build something awesome together! 🚀</p>
