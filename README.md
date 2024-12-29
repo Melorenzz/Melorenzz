@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi, I'm Mykhailo</p>
+# <p align="center">👋 Hi, I'm Mykhailo Voronov</p>
 
 <p align="center">I'm a <strong>Frontend Developer</strong> passionate about creating modern, responsive web applications. I specialize in frontend technologies and I'm always eager to learn and improve.</p>
 
