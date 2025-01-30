@@ -35,18 +35,6 @@
 
 ---
 
-## <p align="center">🌟 My Interests</p>
-
-<p align="center">I'm passionate about many things beyond coding:</p>
-<p align="center">
-  🎵 <strong>Music</strong> – I love listening to music, it's my way to relax and stay motivated.<br>
-  🌍 <strong>Travel</strong> – Exploring new places and cultures keeps me inspired.<br>
-  ⚽ <strong>Sports</strong> – Staying active helps me stay focused and energized.<br>
-  📚 <strong>Reading</strong> – Books are a great way to expand my knowledge and creativity.
-</p>
-
----
-
 ## <p align="center">📫 How to Reach Me</p>
 
 <p align="center">Feel free to connect with me on Instagram:</p>
