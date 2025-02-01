@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" width='200px' alt="Tech Stack">
 </div>
 
 <div align="center">
@@ -25,14 +25,14 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-JavaScript-21262d?style=for-the-badge&logo=javascript" alt="Currently Learning JavaScript"> <br>
+  <img src="https://img.shields.io/badge/Currently%20Learning-JavaScript-21262d?style=for-the-badge&logo=javascript" width='300px' alt="Currently Learning JavaScript"> <br>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📫-How%20to%20Reach%20Me-21262d?style=for-the-badge&logo=envelope" alt="How to Reach Me">
+  <img src="https://img.shields.io/badge/📫-How%20to%20Reach%20Me-21262d?style=for-the-badge&logo=envelope" width='200px' alt="How to Reach Me">
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-21262d?style=for-the-badge&logo=github" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-21262d?style=for-the-badge&logo=github" width='200px' alt="GitHub Stats">
 </div>
 
 <div align="center">
@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Awesome-Together!-21262d?style=for-the-badge&logo=rocket" alt="Let's Build">
+  <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Awesome-Together!-21262d?style=for-the-badge&logo=rocket" width='400px' alt="Let's Build">
 </div>
