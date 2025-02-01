@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" width='200px' alt="Tech Stack">
+  <img src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" width='180px' alt="Tech Stack">
 </div>
 
 <div align="center">
