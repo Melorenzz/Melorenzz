@@ -3,30 +3,30 @@
 
   <img src="https://img.shields.io/badge/🌍-Ukraine%20%7C%20Now%20in%20Prague-21262d?style=for-the-badge&logo=earth" alt="Location">
 
-  <img style='margin-top: 20px' src="https://komarev.com/ghpvc/?username=Melorenzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Melorenzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
   ---
 
-  <img style='margin-bottom: 15px' src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/🛠️-My%20Tech%20Stack-21262d?style=for-the-badge&logo=tools" alt="Tech Stack">
 
-  <img style='margin-right: 5px' src="https://img.shields.io/badge/HTML5-21262d?style=for-the-badge&logo=html5" alt="HTML5">
-  <img style='margin-right: 5px' src="https://img.shields.io/badge/CSS3-21262d?style=for-the-badge&logo=css3" alt="CSS3">
-  <img style='margin-right: 5px' src="https://img.shields.io/badge/SASS-21262d?style=for-the-badge&logo=sass" alt="SASS">
-  <img style='margin-right: 5px' src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-21262d?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-21262d?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/SASS-21262d?style=for-the-badge&logo=sass" alt="SASS">
+  <img src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
 
 
-  <img style='margin-top: 30px' src="https://img.shields.io/badge/Currently%20Learning-JavaScript-21262d?style=for-the-badge&logo=javascript" alt="Currently Learning JavaScript">
+  <img src="https://img.shields.io/badge/Currently%20Learning-JavaScript-21262d?style=for-the-badge&logo=javascript" alt="Currently Learning JavaScript">
 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50">
 
   ---
 
-  <img style='margin-bottom: 20px' src="https://img.shields.io/badge/📫-How%20to%20Reach%20Me-21262d?style=for-the-badge&logo=envelope" alt="How to Reach Me">
+  <img src="https://img.shields.io/badge/📫-How%20to%20Reach%20Me-21262d?style=for-the-badge&logo=envelope" alt="How to Reach Me">
 
 
-  <a style='margin-right: 5px' href="#"><img src='https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png' width='40' height='40'></a>
-  <a style='margin-right: 5px' href="https://instagram.com/melorenz_"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png' width='40' height='40'></a>
+  <a href="#"><img src='https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png' width='40' height='40'></a>
+  <a href="https://instagram.com/melorenz_"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png' width='40' height='40'></a>
   <a href="mailto:gomisha552@gmail.com"><img src='https://cdn-icons-png.flaticon.com/512/281/281769.png' width='40' height='40'></a>
 
   ---
