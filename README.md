@@ -1,4 +1,5 @@
 <div align="center">
+  <img src='https://i.ibb.co/SD7XDH6z/um06884.png'>
   <h1>👋 Hi, I'm Mykhailo Voronov</h1>
   <img src="https://img.shields.io/badge/🌍-Ukraine%20%7C%20Now%20in%20Prague-141c2b?style=for-the-badge&logo=earth&logoColor=white" alt="Location">
   <br>
@@ -55,4 +56,5 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Awesome-Together!-141c2b?style=for-the-badge&logo=rocket&logoColor=white" width='400px' alt="Let's Build">
+  <img src='https://i.ibb.co/SD7XDH6z/um06884.png'>
 </div>
