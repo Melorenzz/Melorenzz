@@ -47,8 +47,8 @@
 
 <div align="center">
   <p>Here's a quick look at my GitHub activity:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Melorenzz&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats"> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melorenzz&hide_border=true&theme=dark" height='165' alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melorenzz&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark" width='400' height='200' alt="GitHub Stats"> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melorenzz&hide_border=true&theme=dark" width='400' height='200' alt="GitHub Streak">
 </div>
 
 ---
