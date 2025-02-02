@@ -1,10 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Mykhailo Voronov</h1>
-
   <img src="https://img.shields.io/badge/🌍-Ukraine%20%7C%20Now%20in%20Prague-21262d?style=for-the-badge&logo=earth" alt="Location">
-  
   <br>
-
   <img src="https://komarev.com/ghpvc/?username=Melorenzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
@@ -42,7 +39,6 @@
   <a href="mailto:gomisha552@gmail.com"><img src='https://cdn-icons-png.flaticon.com/512/281/281769.png' width='40' height='40'></a>
 </div>
 
-
 ---
 
 <div align="center">
@@ -51,10 +47,9 @@
 
 <div align="center">
   <p>Here's a quick look at my GitHub activity:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Melorenzz&show_icons=true&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats"> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melorenzz&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melorenzz&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats"> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melorenzz&hide_border=true&theme=dark" height='165' alt="GitHub Streak">
 </div>
-
 
 ---
 
