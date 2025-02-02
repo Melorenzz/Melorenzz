@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/CSS3-21262d?style=for-the-badge&logo=css3" alt="CSS3"> &nbsp;
   <img src="https://img.shields.io/badge/SASS-21262d?style=for-the-badge&logo=sass" alt="SASS"> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript" alt="JavaScript"> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS"> &nbsp;
+  <img src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git" alt="Git">
 </div>
 
 <br>
