@@ -20,7 +20,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="#" target="blank">
+  <a href="https://www.linkedin.com/in/mykhailo-voronov-3630a7356/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:gomisha552@gmail.com" target="blank">
