@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/melorenz_" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://t.me/" target="blank">
+  <a href="https://t.me/Username37895" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
   </a>
 </p>
