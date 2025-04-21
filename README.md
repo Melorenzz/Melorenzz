@@ -26,14 +26,14 @@
   <a href="mailto:gomisha552@gmail.com" target="blank">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/melorenz_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
-  </a>
   <a href="https://t.me/Username37895" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
   </a>
   <a href="https://discord.gg/9nXRwysqVw" target="blank">
     <img align="center" src="https://i.ibb.co/6RNqyQCQ/discord-round-color-icon.png" alt="Discord" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/melorenz_" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
