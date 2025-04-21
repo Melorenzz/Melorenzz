@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mykhailo-voronov-3630a7356/" target="blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:gomisha552@gmail.com" target="blank">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" height="40" width="40" />
