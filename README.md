@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-- 🧑‍💻 Currently learning **JavaScript**
+- 🧑‍💻 Currently learning **JavaScript & React**
 - 📫 Email **gomisha552@gmail.com**
 - 🌱 Learning frontend, improving JavaScript, and exploring modern technologies
 
