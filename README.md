@@ -74,3 +74,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melorenzz&hide_border=true&theme=tokyonight" alt="GitHub Streak">
 </p>
+<p>
+  <a href="https://freelancehunt.com/freelancer/Mykhailo_Voronov.html?from=shield&r=ANwKG" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1684029/type/rating?style=flat&lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
+</p>
