@@ -44,19 +44,22 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" alt="HTML" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/css-3-icon-726x1024-610441pl.png" alt="CSS" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"  width="40"  />
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.icons8.com/color/512/sass.png" alt="SASS" width="50" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind" width="50" height='35' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height='50' />
   </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="45" height='45' />
@@ -64,6 +67,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="45"  />
   </a>
+  
 </p>
 
 
