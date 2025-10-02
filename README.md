@@ -64,6 +64,9 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="45" height='45' />
   </a>
+  <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="Zustand" width="45" height='45' />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="45"  />
   </a>
