@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-- 🧑‍💻 Currently learning **TypeScript & React**
+- 🧑‍💻 Currently exploring **AI**
 - 📫 Email **gomisha552@gmail.com**
 - 🌱 Learning frontend, improving JavaScript, and exploring modern technologies
 
